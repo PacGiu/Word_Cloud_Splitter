@@ -1,0 +1,109 @@
+{"node_id":110,"Child_1":["International sports competitions",8],"Child_2":["Team sports",8]}
+{"node_id":111,"Child_1":["Association football competitions",11],"Child_2":["FIFA competitions",9]}
+{"node_id":112,"Child_1":["International association football competitions",8],"Child_2":["Sports competitions",8]}
+{"node_id":113,"Child_1":["Sports",15],"Child_2":111}
+{"node_id":114,"Child_1":["Sports events",8],"Child_2":113}
+{"node_id":115,"Child_1":110,"Child_2":112}
+{"node_id":116,"Child_1":["Dissolution of Syria",7],"Child_2":["Aftermath of the Arab Spring",7]}
+{"node_id":117,"Child_1":["Association football",19],"Child_2":115}
+{"node_id":118,"Child_1":["Military of Israel",8],"Child_2":["Gaza Strip",8]}
+{"node_id":119,"Child_1":["Arab Winter",7],"Child_2":116}
+{"node_id":120,"Child_1":["Judaism and warfare",9],"Child_2":["Egypt\u2013Israel relations",9]}
+{"node_id":121,"Child_1":114,"Child_2":117}
+{"node_id":122,"Child_1":["Israel\u2013Jordan relations",9],"Child_2":120}
+{"node_id":123,"Child_1":["Israel\u2013Palestine relations",12],"Child_2":["Israeli\u2013Palestinian conflict",12]}
+{"node_id":124,"Child_1":["Islam and Judaism",9],"Child_2":122}
+{"node_id":125,"Child_1":["Foreign relations of Israel",8],"Child_2":118}
+{"node_id":126,"Child_1":["Natural disasters",12],"Child_2":["Natural hazards",11]}
+{"node_id":127,"Child_1":["LGBT rights",8],"Child_2":["Equality rights",7]}
+{"node_id":128,"Child_1":121,"Child_2":126}
+{"node_id":129,"Child_1":["Palestinian territories",12],"Child_2":["Palestinian politics",11]}
+{"node_id":130,"Child_1":["Disasters",13],"Child_2":["Physical geography",12]}
+{"node_id":131,"Child_1":["Politics of Israel",15],"Child_2":["Israel",18]}
+{"node_id":132,"Child_1":["Arab rebellions",8],"Child_2":119}
+{"node_id":133,"Child_1":["Politics of Turkey",9],"Child_2":["Turkey",8]}
+{"node_id":134,"Child_1":["Palestine (region)",12],"Child_2":123}
+{"node_id":135,"Child_1":["Culture",13],"Child_2":["Sexual orientation",8]}
+{"node_id":136,"Child_1":["Government of North Korea",29],"Child_2":["North Korea",28]}
+{"node_id":137,"Child_1":["Migration",9],"Child_2":["Crime",14]}
+{"node_id":138,"Child_1":128,"Child_2":130}
+{"node_id":139,"Child_1":["Criminal law",13],"Child_2":135}
+{"node_id":140,"Child_1":["National security",9],"Child_2":["Activism",7]}
+{"node_id":141,"Child_1":["Religion-based civil wars",12],"Child_2":["Ongoing conflicts",11]}
+{"node_id":142,"Child_1":["Government of Israel",14],"Child_2":134}
+{"node_id":143,"Child_1":["Politics of North Korea",30],"Child_2":136}
+{"node_id":144,"Child_1":["Economies",8],"Child_2":["Europe",8]}
+{"node_id":145,"Child_1":["Human migration",18],"Child_2":["Immigration",20]}
+{"node_id":146,"Child_1":["Refugees",8],"Child_2":["Consequences of wars",7]}
+{"node_id":147,"Child_1":["Law",26],"Child_2":["Justice",26]}
+{"node_id":148,"Child_1":["Cultural geography",12],"Child_2":["Government and personhood",10]}
+{"node_id":149,"Child_1":["Forms of government",7],"Child_2":144}
+{"node_id":150,"Child_1":["Korea",19],"Child_2":["Politics of Korea",18]}
+{"node_id":151,"Child_1":["LGBT",11],"Child_2":139}
+{"node_id":152,"Child_1":129,"Child_2":142}
+{"node_id":153,"Child_1":["Middle East",20],"Child_2":131}
+{"node_id":154,"Child_1":["Terrorism",9],"Child_2":["Afghanistan",7]}
+{"node_id":155,"Child_1":["Shia\u2013Sunni sectarian violence",8],"Child_2":132}
+{"node_id":156,"Child_1":["United States",10],"Child_2":["American anti\u2013illegal immigration activists",12]}
+{"node_id":157,"Child_1":["Later lives",26],"Child_2":["Trump family",25]}
+{"node_id":158,"Child_1":["Arab\u2013Israeli conflict",10],"Child_2":124}
+{"node_id":159,"Child_1":["Social institutions",13],"Child_2":148}
+{"node_id":160,"Child_1":["Government of Korea",22],"Child_2":["Foreign relations of Korea",26]}
+{"node_id":161,"Child_1":137,"Child_2":146}
+{"node_id":162,"Child_1":["Cultural globalization",13],"Child_2":["Crimes",16]}
+{"node_id":163,"Child_1":127,"Child_2":151}
+{"node_id":164,"Child_1":["Chronology of war",7],"Child_2":154}
+{"node_id":165,"Child_1":["Elections",11],"Child_2":["Executive Order 13769",13]}
+{"node_id":166,"Child_1":["Human activities",27],"Child_2":145}
+{"node_id":167,"Child_1":["Economy",14],"Child_2":133}
+{"node_id":168,"Child_1":["Chemical warfare",8],"Child_2":["International security",9]}
+{"node_id":169,"Child_1":["Foreign relations",13],"Child_2":["Government of the United States",14]}
+{"node_id":170,"Child_1":["Presidency of Donald Trump",28],"Child_2":157}
+{"node_id":171,"Child_1":["Political events",15],"Child_2":159}
+{"node_id":172,"Child_1":["Human rights",15],"Child_2":166}
+{"node_id":173,"Child_1":156,"Child_2":165}
+{"node_id":174,"Child_1":["Human rights abuses",29],"Child_2":["Forced migration",27]}
+{"node_id":175,"Child_1":["State of Palestine",10],"Child_2":125}
+{"node_id":176,"Child_1":149,"Child_2":167}
+{"node_id":177,"Child_1":140,"Child_2":163}
+{"node_id":178,"Child_1":["Political career of Donald Trump",52],"Child_2":["Donald Trump",59]}
+{"node_id":179,"Child_1":["Presidency of the United States",19],"Child_2":170}
+{"node_id":180,"Child_1":["Politics of Asia",15],"Child_2":169}
+{"node_id":181,"Child_1":143,"Child_2":160}
+{"node_id":182,"Child_1":162,"Child_2":172}
+{"node_id":183,"Child_1":158,"Child_2":175}
+{"node_id":184,"Child_1":152,"Child_2":153}
+{"node_id":185,"Child_1":161,"Child_2":177}
+{"node_id":186,"Child_1":["Global politics",31],"Child_2":["Foreign policy",42]}
+{"node_id":187,"Child_1":164,"Child_2":168}
+{"node_id":188,"Child_1":["Public sphere",32],"Child_2":147}
+{"node_id":189,"Child_1":["Foreign relations of the United States",9],"Child_2":180}
+{"node_id":190,"Child_1":171,"Child_2":182}
+{"node_id":191,"Child_1":["Politics of the Middle East",25],"Child_2":184}
+{"node_id":192,"Child_1":141,"Child_2":155}
+{"node_id":193,"Child_1":138,"Child_2":176}
+{"node_id":194,"Child_1":["War",50],"Child_2":["Conflicts",67]}
+{"node_id":195,"Child_1":173,"Child_2":185}
+{"node_id":196,"Child_1":["Diplomacy",25],"Child_2":189}
+{"node_id":197,"Child_1":150,"Child_2":181}
+{"node_id":198,"Child_1":["Military",19],"Child_2":192}
+{"node_id":199,"Child_1":["Warfare",51],"Child_2":194}
+{"node_id":200,"Child_1":["East Asia",8],"Child_2":196}
+{"node_id":201,"Child_1":187,"Child_2":193}
+{"node_id":202,"Child_1":183,"Child_2":191}
+{"node_id":203,"Child_1":190,"Child_2":195}
+{"node_id":204,"Child_1":179,"Child_2":188}
+{"node_id":205,"Child_1":["3rd-millennium conflicts",20],"Child_2":198}
+{"node_id":206,"Child_1":["Politics",150],"Child_2":["Government",116]}
+{"node_id":207,"Child_1":186,"Child_2":197}
+{"node_id":208,"Child_1":200,"Child_2":201}
+{"node_id":209,"Child_1":178,"Child_2":204}
+{"node_id":210,"Child_1":174,"Child_2":205}
+{"node_id":211,"Child_1":203,"Child_2":208}
+{"node_id":212,"Child_1":["International relations",76],"Child_2":207}
+{"node_id":213,"Child_1":209,"Child_2":211}
+{"node_id":214,"Child_1":210,"Child_2":213}
+{"node_id":215,"Child_1":206,"Child_2":214}
+{"node_id":216,"Child_1":199,"Child_2":215}
+{"node_id":217,"Child_1":202,"Child_2":216}
+{"node_id":-1,"Child_1":212,"Child_2":217}
